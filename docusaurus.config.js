@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Eighthing Devlog',
-  tagline: '8️⃣Eighthing 개발자들의 이모저모🧑‍💻',
+  tagline: '8명의 멋진 괴짜들의 개발기록😎',
   url: 'https://eighthing.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -40,7 +40,7 @@ const config = {
         },
         blog: {
           blogTitle: 'Eighthing Blog',
-          blogDescription: 'Eighthing 개발자의 일상 이야기😎',
+          blogDescription: '우리들의 일상 이야기☀️',
           blogSidebarCount: 'ALL',
           blogSidebarTitle: 'All posts',
           postsPerPage: 5,
@@ -74,9 +74,9 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: '📄 Wiki',
+            label: '📚 Wiki',
           },
-          {to: '/blog', label: '😎 Blog', position: 'left'},
+          {to: '/blog', label: '📝 Blog', position: 'left'},
           {
             href: 'https://github.com/eighthing',
             position: 'right',
@@ -89,7 +89,7 @@ const config = {
         style: 'dark',
         links: [
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Eighthing, built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Eighthing`,
       },
       prism: {
         theme: lightCodeTheme,
