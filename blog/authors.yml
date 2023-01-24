@@ -1,0 +1,23 @@
+penguin:
+  name: 펭귄 (Penguin)
+  title: 주니어 데이터엔지니어
+  url: https://github.com/CoodingPenguin
+  image_url: https://avatars.githubusercontent.com/u/37505775?v=4
+
+groot:
+  name: 그루트 (Groot)
+  title: 백엔드 개발자
+  url: https://github.com/iamgroooooot
+  image_url: https://avatars.githubusercontent.com/u/38830620?v=4
+
+amoled:
+  name: 레드 (Led)
+  title: 척척박사를 꿈꾸는 척척학사
+  url: https://github.com/sm-amoled
+  image_url: https://avatars.githubusercontent.com/u/39216546?v=4
+
+lexa:
+  name: 렉사 (Lexa)
+  title: 컴공여신
+  url: https://github.com/jonyejin
+  image_url: https://avatars.githubusercontent.com/u/77298353?v=4
