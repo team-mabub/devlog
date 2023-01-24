@@ -28,6 +28,30 @@ const config = {
     locales: ['ko'],
   },
 
+  headTags: [
+    {
+      tagName: 'meta',
+      attributes: {
+        'http-equiv': 'cache-control',
+        'content': 'no-cache',
+      },
+    },
+    {
+      tagName: 'meta',
+      attributes: {
+        'http-equiv': 'expires',
+        'content': '0',
+      },
+    },
+    {
+      tagName: 'meta',
+      attributes: {
+        'http-equiv': 'pragma',
+        'content': 'no-cache',
+      }
+    }
+  ],
+
   presets: [
     [
       'classic',
