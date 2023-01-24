@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Eighthing Devlog',
-  tagline: '8️⃣Eighthing 개발자들의 이모저모🧑‍💻',
+  tagline: 'Eighthing 개발자들의 이모저모🧑‍💻',
   url: 'https://eighthing.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
