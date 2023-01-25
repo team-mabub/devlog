@@ -100,7 +100,7 @@ const config = {
             position: 'left',
             label: '📚 Wiki',
           },
-          {to: '/blog', label: '📝 Blog', position: 'left'},
+          {to: '/blog', label: '📝 Study', position: 'left'},
           {
             href: 'https://github.com/eighthing',
             position: 'right',
